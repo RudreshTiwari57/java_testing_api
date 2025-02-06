@@ -32,3 +32,8 @@ Once the execution completes report & log will be generated in below folder.
 
 **Report:** 		*target/report*<br>
 **Log:** 		*target/logs*
+
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rudresh-tiwari-406a63201)
